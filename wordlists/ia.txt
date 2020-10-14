@@ -1,0 +1,100 @@
+esseva
+trova
+iste
+Illo
+ille
+altere
+pote
+esser
+habeva
+essite
+annos
+anque
+multe
+seculo
+multo
+nomine
+mesme
+Latio
+plure
+usate
+solmente
+Unite
+etiam
+anglese
+deveniva
+inter
+cognoscite
+illos
+interlingua
+alicun
+articulo
+tote
+tempore
+isto
+usque
+duo
+lor
+Campania
+nove
+appellate
+illes
+facer
+omne
+systema
+proque
+Calabria
+comenciava
+pais
+regno
+alcun
+articulos
+secunde
+scribite
+tamben
+parve
+paises
+prime
+sud
+espaniol
+anno
+taxon
+parolas
+scribeva
+cata
+majoritate
+parola
+considerate
+alteres
+Abruzzo
+contato
+differente
+grec
+secundo
+pagina
+Apulia
+gruppo
+faceva
+nominate
+hodie
+vices
+Catarina
+deberea
+poterea
+scriber
+governamento
+Europee
+puncto
+genere
+Espania
+patre
+esseva	8.457088489585602e-05
+trova	5.3237667036861915e-05
+iste	2.492206649828098e-05
+Illo	2.4217038444852555e-05
+ille	2.2658044370247282e-05
+altere	2.2259033296956136e-05
+pote	2.067635837387617e-05
+illo	1.9444102795007568e-05
+esser	1.8414951470872752e-05
+Ille	1.6322405056526424e-05

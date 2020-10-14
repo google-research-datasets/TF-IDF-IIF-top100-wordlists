@@ -1,0 +1,100 @@
+ye
+suyo
+suya
+tamién
+aragonés
+comarca
+articlo
+sieglo
+veiga
+localidat
+castellán
+atros
+Iste
+puet
+dimpués
+rechión
+desambigación
+luenga
+termin
+encara
+catalán
+río
+yera
+chudicial
+dende
+troba
+dica
+usos
+Uesca
+lugars
+estato
+ixo
+suyos
+suyas
+asinas
+luengas
+més
+muga
+laragonés
+nomás
+partito
+Zaragoza
+Leyón
+yeran
+toponimo
+chunto
+latín
+anyos
+fer
+totz
+cheneral
+Aragón
+Castiella
+fació
+Manimenos
+mientres
+diferents
+articlos
+baixo
+bells
+muit
+tien
+norte
+servir
+eixemplo
+tracta
+ista
+aragonesa
+atras
+duna
+dorichen
+traza
+enta
+población
+heba
+millor
+seguntes
+occitana
+ilesia
+fillo
+teneba
+Teruel
+ixe
+Estatos
+prou
+Unitos
+bellas
+conoixito
+ye	5.5933053391932295e-05
+suyo	2.8567370289069256e-05
+suya	2.8188871334741045e-05
+tamién	2.6899330991816506e-05
+aragonés	2.302825949473621e-05
+comarca	2.2493134218636215e-05
+articlo	2.223432078426851e-05
+sieglo	1.940043013367384e-05
+veiga	1.724515612048143e-05
+localidat	1.7047094749037715e-05
+daltaria	1.587775468979899e-05
+castellán	1.4949417307796795e-05

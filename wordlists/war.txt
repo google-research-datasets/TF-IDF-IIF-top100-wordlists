@@ -1,0 +1,100 @@
+ngan
+nasod
+nga
+amo
+Mga
+bungto
+UC
+usa
+hin
+lalawigan
+hiya
+tuig
+Alemanya
+dekada
+hini
+ngatanan
+tawo
+iya
+hira
+waray
+akon
+kamo
+condado
+iyo
+Sanglit
+ngadto
+ira
+sugad
+han
+tikang
+Kundi
+Polonya
+Hiunong
+tungod
+hi
+nira
+niyo
+kapital
+kay
+imo
+pagdumara
+adlaw
+liwat
+kalendaryo
+didto
+bisan
+kon
+pinaagi
+baryo
+karuyag
+maupay
+aton
+gud
+niya
+canton
+probinsya
+artikulo
+dida
+kinahanglan
+TACLOBAN
+Diri
+ngahaw
+kalugaringon
+pagtoo
+Mapa
+upod
+Samtang
+butang
+mahitungod
+panahon
+kinabuhi
+Slovakia
+maaram
+dayon
+nasiring
+ngaran
+Balaod
+duha
+kinmadto
+kalibutan
+Rusya
+yana
+pagkayana
+gihapon
+Bavaria
+bahin
+Uruubos
+hadto
+naman
+Austria
+gahom
+ngan	0.00012402716303644992
+nasod	0.00011838279509201351
+nga	8.962363666365328e-05
+â	8.349013441303601e-05
+amo	8.32279154387278e-05
+Mga	6.968761384037829e-05
+bungto	6.835809740666911e-05
+â¢	6.281554896829053e-05
+UC	6.241366054273725e-05

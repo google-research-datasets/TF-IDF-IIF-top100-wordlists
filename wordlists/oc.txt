@@ -1,0 +1,100 @@
+dins
+dels
+foguèt
+tanben
+espanhòla
+sègle
+dau
+província
+fòrça
+èra
+èsser
+vilatge
+coma
+Pasmens
+foguèron
+luòc
+territòri
+siá
+familha
+pòble
+vila
+aquela
+çò
+dempuèi
+primièr
+nòrd
+Castelha
+guèrra
+glèisa
+sieu
+aviá
+duna
+ambé
+pòt
+pauc
+tròba
+leis
+venguèt
+partida
+aguèt
+ques
+govèrn
+Nauta
+occitana
+periòde
+Aquò
+populacion
+còntra
+aquel
+deu
+Borgonha
+pel
+èran
+nom
+fins
+mòrt
+lei
+castèl
+doas
+còp
+pels
+pendent
+màger
+pus
+capitala
+Normandia
+encara
+costat
+Païses
+començament
+quilomètres
+domeni
+deis
+Sèina
+qualques
+rèi
+Picardia
+Mosèla
+vèrs
+junh
+oficialament
+abans
+contunh
+administrada
+dens
+conegut
+sovent
+dins	0.00010512255317646853
+dels	2.91594212618147e-05
+foguèt	2.7026840925324145e-05
+tanben	2.5592776072449626e-05
+espanhòla	2.2171269434974774e-05
+sègle	1.900793996332852e-05
+dau	1.852874606856707e-05
+província	1.8217693602774762e-05
+fòrça	1.8087146569552927e-05
+èra	1.7727507563521308e-05
+èsser	1.53766241054092e-05
+vilatge	1.5302824781068824e-05
+coma	1.3980237059673898e-05
