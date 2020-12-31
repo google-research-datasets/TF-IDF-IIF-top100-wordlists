@@ -1,7 +1,7 @@
 # TF-IDF-IIF lists
 This repository contains wordlists for a collection of languages containing words that we believe to be distinctive to each language. They are specifically selected to be the words that are more indicative of these languages and not of those languages that are common on the internet, like English.  There are 508 language varieties represented, and each language’s word list has 100 distinctive words. 
 
-These wordlists are created with the `TF-IDF-IIF` formulation, which is a variant on the well-known [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) technique, that additionally takes into account the total frequency of this word on a sample of the internet (the “inverse Internet Frequency”, or “IIF”). For more details on their construction and usage, please check out our [paper](https://arxiv.org/abs/2010.14571.). Since this technique doesn’t make sense for languages that are highly prevalent on the internet, like English, those languages are not included.
+These wordlists are created with the `TF-IDF-IIF` formulation, which is a variant on the well-known [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) technique, that additionally takes into account the total frequency of this word on a sample of the internet (the “inverse Internet Frequency”, or “IIF”). For more details on their construction and usage, please check out our [paper](https://arxiv.org/abs/2010.14571). Since this technique doesn’t make sense for languages that are highly prevalent on the internet, like English, those languages are not included.
 
 This is not an officially supported Google product.
 
