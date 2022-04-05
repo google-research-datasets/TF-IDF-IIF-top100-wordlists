@@ -16,7 +16,7 @@ The datasets from which these datasets were created are largely from 1)
 internal, curated data; 2) Wikipedia, and 3) crawls of public target-language web pages.
 
 In general, the most frequent tokens in a language should be very common
-words, and not vary much depending on the dataset. However, since some of the source datasets were small or narrow-domain, a few of these wordlists may be less useful practically. Furthermore, because of the TF-IIF-IDF formulation, if
+words, and not vary much depending on the dataset. However, since some of the source datasets were small or narrow-domain, a few of these wordlists may be less useful practically. Furthermore, because of the TF-IDF-IIF formulation, if
 these languages are closer to common languages on the internet, these effects
 will be exacerbated. For this reason we don’t include wordlists for common languages on the internet like English or Hindi.
 
